@@ -1,0 +1,146 @@
+/*   Media Queries File   */
+
+/* __________________________________________________________
+
+- BASE
+- HEADER
+- SECTION #1
+- FOOTER
+
+__________________________________________________________ */
+
+
+
+/* BASE
+__________________________________________________________ */
+@media (max-width: 1200px) {
+
+}
+@media (max-width: 992px) {
+	header.header {
+		height: auto;
+		padding-bottom: 30px;
+	}
+	.select-item {
+		margin-top: 40px;
+	}
+	.header a.logo {
+		margin-left: auto;
+		margin-right: auto;
+		display: table;
+	}
+	.navbar-default {
+		clear: both;
+		margin-left: auto;
+		margin-right: auto;
+		display: table;
+		width: 100%;
+	}
+	.navbar-default .container-fluid {
+		margin-left: auto;
+		margin-right: auto;
+		display: table;
+		width: 100%;
+		text-align: center;
+	}
+	.navbar-default .navbar-nav>li>a {
+		margin: 0px 10px;
+	}
+	.header .btn.btn-border,
+	.header .btn.btn-fill {
+		float: none;
+		clear: both;
+		margin-left: auto;
+		margin-right: auto;
+		display: table;
+
+		margin-top: 20px;
+	}
+
+	footer .copyright {
+		display: none;
+	}
+	footer.footer a.logo {
+		float: left;
+	}
+	footer.footer .footer-terms {
+		float: right;
+		font-size: 9px;
+	}
+
+
+	.buttons .btn.btn-fill {
+		margin-left: auto;
+		margin-right: auto;
+		display: table;
+	}
+	.buttons .btn.btn-border {
+		margin-left: auto;
+		margin-right: auto;
+		display: table;
+	}
+}
+@media (max-width: 768px) { 
+	.navbar-toggle {
+		margin-right: 0;
+	}
+}
+@media (max-width: 360px) { 
+
+}
+
+@media (min-width: 768px) {
+	.navbar-nav {
+		float: none;
+		margin-left: auto;
+		margin-right: auto;
+		display: table;   
+	}
+	
+}
+    
+/*__________________________________________________________ */
+@media (max-width: 1200px) {
+
+}
+@media (max-width: 992px) {
+
+}
+@media (max-width: 768px) { 
+
+}
+@media (max-width: 360px) { 
+
+}
+
+
+/* SECTION #1
+__________________________________________________________ */
+@media (max-width: 1200px) {
+
+}
+@media (max-width: 992px) {
+
+}
+@media (max-width: 768px) { 
+
+}
+@media (max-width: 360px) { 
+
+}
+
+
+/* FOOTER
+__________________________________________________________ */
+@media (max-width: 1200px) {
+
+}
+@media (max-width: 992px) {
+
+}
+@media (max-width: 768px) { 
+
+}
+@media (max-width: 360px) { 
+
+}
